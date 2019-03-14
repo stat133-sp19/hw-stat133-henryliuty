@@ -2,7 +2,7 @@
 
 Private Repository for HW assignments of Stat 133 (Spring 2019)
 
-- Name: henry liu (first last)
+- Name: henry liu
 - Github username: henryliuty
 - Email: henryliuty@berkley.edu
 - Lab section: 103
